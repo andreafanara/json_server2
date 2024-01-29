@@ -1,10 +1,7 @@
 {
 "shop":[
   {
-    "id": 1,
-    "name": "(405) Brewing Co",
-    "brewery_type": "micro",
-    "address_1": "1716 Topeka St"
+    "id": 1
   }
 ]
 }
